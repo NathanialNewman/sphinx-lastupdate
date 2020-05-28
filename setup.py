@@ -18,7 +18,7 @@ URL = 'https://github.com/rneubert/sphinx_lastupdate'
 EMAIL = 'rbneubert@gmail.com'
 AUTHOR = 'Rachel Neubert'
 REQUIRES_PYTHON = '>=2.7.0'
-VERSION = None
+VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -108,9 +108,9 @@ setup(
         # Trove classifiers
         # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
         'Programming Language :: Python',
-        'Programming Langauge :: Python :: 2.7',
+        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
-        'Topic :: Documentation,'
+        'Topic :: Documentation',
         'Topic :: Documentation :: Sphinx'
     ],
     # $ setup.py publish support.
